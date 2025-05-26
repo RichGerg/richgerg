@@ -6,7 +6,7 @@ Product &amp; Techical Operations</h1>
 - <b>Azure</b>
   - [Web Form Monitor with Azure Functions](https://github.com/RichGerg/checkzipfield)
 
-<h2>IT Certifications</h2>
+<h2>📃 IT Certifications</h2>
 
 - CompTIA A+ ce
 - AWS Certified Cloud Practioner
