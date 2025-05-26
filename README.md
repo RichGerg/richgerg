@@ -1,5 +1,5 @@
 <h1>Hi, I'm Rich! <br/>
-I specialize in Web &amp; Technical Operations</h1>
+Web &amp; Technical Operations Professional</h1>
 
 <h2>👨‍💻 Technical Projects:</h2>
 
