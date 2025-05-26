@@ -4,7 +4,7 @@ Product &amp; Techical Operations</h1>
 <h2>👨‍💻 Technical Projects:</h2>
 
 - <b>Azure</b>
-  - [Web Form Monitor with Azure Functions]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/RichGerg/checkzipfield)
+  - [Web Form Monitor with Azure Functions](https://github.com/RichGerg/checkzipfield)
 
 <h2>IT Certifications</h2>
 
