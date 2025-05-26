@@ -1,7 +1,25 @@
-## Hi there 👋
+<h1>Hi, I'm Rich! <br/>
+Product &amp; Techical Operations</h1>
+
+<h2>👨‍💻 Technical Projects:</h2>
+
+- <b>Azure</b>
+  - [Web Form Monitor with Azure Functions]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/RichGerg/checkzipfield)
+
+<h2>IT Certifications</h2>
+
+- CompTIA A+ ce
+- AWS Certified Cloud Practioner
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="RichGerg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/richgerg
 
 <!--
-**RichGerg/richgerg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
