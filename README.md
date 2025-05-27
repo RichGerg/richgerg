@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rich! <br/>
+<h1>Hello, I'm Richard! <br/>
 Web &amp; Technical Operations Professional</h1>
 
 <h2>👨‍💻 Technical Projects:</h2>
