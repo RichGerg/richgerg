@@ -6,8 +6,8 @@
 - <b>Azure</b>
   - [Web Form Monitor with Azure Functions](https://github.com/RichGerg/checkzipfield)
 - <b>AWS</b>
-  - [AWS Honeypot Deployment & Attack Analysis - Part 1](https://github.com/RichGerg/aws-honeypot-attack-analysis)
-  - [AWS WAF Implementation Using Honeypot Intelligence](https://github.com/RichGerg/aws-waf-firewall-honeypot)
+  - [AWS Honeypot Deployment & Attack Analysis (Part 1)](https://github.com/RichGerg/aws-honeypot-attack-analysis)
+  - [AWS WAF Implementation Using Honeypot Intelligence (Part 2)](https://github.com/RichGerg/aws-waf-firewall-honeypot)
 - <b>Linux</b>
   - [SSH Brute Force Blocker with UFW](https://github.com/RichGerg/brute-force-detection-script-ufw)
 
