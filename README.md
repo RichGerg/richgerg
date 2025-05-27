@@ -5,6 +5,8 @@ A Web &amp; IT Professional</h1>
 
 - <b>Azure</b>
   - [Web Form Monitor with Azure Functions](https://github.com/RichGerg/checkzipfield)
+- <b>AWS</b>
+  - [AWS Honeypot Deployment & Attack Analysis](https://github.com/RichGerg/aws-honeypot-attack-analysis)
 - <b>Linux</b>
   - [SSH Brute Force Blocker with UFW](https://github.com/RichGerg/brute-force-detection-script-ufw)
 
