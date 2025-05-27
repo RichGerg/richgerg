@@ -1,5 +1,5 @@
 <h1>Hello, I'm Rich! <br/>
-Web &amp; IT Professional</h1>
+A Web &amp; IT Professional</h1>
 
 <h2>👨‍💻 Technical Projects:</h2>
 
