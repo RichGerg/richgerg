@@ -8,6 +8,7 @@
 - <b>AWS</b>
   - [AWS Honeypot Deployment & Attack Analysis (Part 1)](https://github.com/RichGerg/aws-honeypot-attack-analysis)
   - [AWS WAF Implementation Using Honeypot Intelligence (Part 2)](https://github.com/RichGerg/aws-waf-firewall-honeypot)
+  - [AWS Serverless Website with DoS Detection & Alert System](https://github.com/RichGerg/aws-serverless-website-dos-alert/)
 - <b>Linux</b>
   - [SSH Brute Force Blocker with UFW](https://github.com/RichGerg/brute-force-detection-script-ufw)
 
