@@ -1,5 +1,5 @@
 <h1>Hello, I'm Richard! <br/>
-Web &amp; Technical Operations Professional</h1>
+Web &amp; IT Professional</h1>
 
 <h2>👨‍💻 Technical Projects:</h2>
 
