@@ -3,6 +3,7 @@
 <h2>👨‍💻 Technical Projects:</h2>
 
 - <b>Azure</b>
+  - [Automated Travel Content Generator Using AI & Search Trends](https://github.com/RichGerg/travel-trend-ai-generator)
   - [Web Form Monitor with Azure Functions](https://github.com/RichGerg/checkzipfield)
 - <b>AWS</b>
   - [AWS Honeypot Deployment & Attack Analysis (Part 1)](https://github.com/RichGerg/aws-honeypot-attack-analysis)
