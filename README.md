@@ -10,6 +10,7 @@
   - [AWS WAF Implementation Using Honeypot Intelligence (Part 2)](https://github.com/RichGerg/aws-waf-firewall-honeypot)
   - [AWS Serverless Website with DoS Detection & Alert System](https://github.com/RichGerg/aws-serverless-website-dos-alert/)
 - <b>Linux</b>
+  - [Automated WordPress Stack Setup: Apache, PHP, MySQL + Security](https://github.com/RichGerg/automated-wordpress-stack-setup)
   - [SSH Brute Force Blocker with UFW](https://github.com/RichGerg/brute-force-detection-script-ufw)
 
 <h2>📃 IT Certifications</h2>
