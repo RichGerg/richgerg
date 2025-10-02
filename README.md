@@ -15,7 +15,7 @@
 
 <h2>📃 IT Certifications</h2>
 
-- CompTIA A+ ce
+- CompTIA A+, Network+
 - AWS Certified Cloud Practioner
 - Microsoft Certified: Azure Fundamentals (AZ-900)
 
